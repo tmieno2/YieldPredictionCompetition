@@ -29,12 +29,6 @@ Keras, weather iputs are 214-days raw data.
 - MAE = 6.31
 - Rsq = 0.730
 
-## LF-CNN without ClusterID 2nd trial (Sep 30, 2021)
-Multiple 1D CNN layers are used.
-- RMSE: 8.67
-- MAE: 6.65
-- R2: 0.702
-
 ## Random Forest without ClusterID 1st trial (Sep 27, 2021)
 - RMSE = 7.51
 - MAE = 5.67
@@ -51,7 +45,6 @@ Multiple 1D CNN layers are used.
 - RMSE: 8.29
 - MAE: 6.24
 - R2: 0.728
-
 
 ## Lasso with ClusterID (Sep 29, 2021)
 - RMSE: 8.29
