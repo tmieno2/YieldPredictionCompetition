@@ -18,6 +18,12 @@ Train:val:test = 8:1:1
 
 Note that we don't have actual test dataset. So it's impossible to compare the score values with the original paper.
 
+## LSTM without ClusterID 1st trial (Oct 7, 2021)
+Keras, weather iputs are 214-days raw data. 
+- RMSE: 8.03
+- MAE: 6.16
+- Rsq: 0.745
+
 ## LF-CNN without ClusterID 1st trial (Sep 24, 2021)
 - RMSE = 8.26
 - MAE = 6.31
