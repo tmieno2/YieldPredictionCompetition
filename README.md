@@ -1,5 +1,8 @@
 # YieldPredictionCompetition
 
+Please record the model performace using 10% of test data.
+Train:val:test = 8:1:1
+
 # 1. Model perfomance from the original paper
 ## Including All & Temporal Attention
 - RMSE = 7.226
